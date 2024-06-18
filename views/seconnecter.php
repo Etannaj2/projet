@@ -11,7 +11,7 @@
 <div id="wrapper">
 	<section id="three" class="wrapper style1 fade-up">
 						<div class="inner">
-							<h2>Get in touch</h2>	
+							<h2>Login</h2>	
 							<div class="split style1">	
 								<section>
 									<form method="post" action="">
